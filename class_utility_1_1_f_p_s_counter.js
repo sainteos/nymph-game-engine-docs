@@ -1,10 +1,10 @@
 var class_utility_1_1_f_p_s_counter =
 [
-    [ "FPSCounter", "class_utility_1_1_f_p_s_counter.html#a5e76d827002c0d0e4217f43b998d6f1e", null ],
+    [ "FPSCounter", "class_utility_1_1_f_p_s_counter.html#a3a2b905349d1b36d56a85d743d2940aa", null ],
     [ "~FPSCounter", "class_utility_1_1_f_p_s_counter.html#a2b94c095232265f35679820d6c9a54d6", null ],
-    [ "assessCountAndGetDelta", "class_utility_1_1_f_p_s_counter.html#aa068e564c963cbc82ebacffac9201a90", null ],
-    [ "getAverageFPS", "class_utility_1_1_f_p_s_counter.html#af30e85894cd28030f940973d7c38b678", null ],
-    [ "getCurrentFPS", "class_utility_1_1_f_p_s_counter.html#a79f4857494606837a23c545d0f7e5917", null ],
-    [ "getMaxFPS", "class_utility_1_1_f_p_s_counter.html#a11077d4a419a31bbd254103b68e3956b", null ],
+    [ "assessCountAndGetDelta", "class_utility_1_1_f_p_s_counter.html#ab95e90aa1741e2dfdf2cd34965bdd140", null ],
+    [ "getAverageFPS", "class_utility_1_1_f_p_s_counter.html#a8852e0de87fb9da6f1f0761e552367c3", null ],
+    [ "getCurrentFPS", "class_utility_1_1_f_p_s_counter.html#a0ce7d1402c45f5cef2003b42a383ff09", null ],
+    [ "getMaxFPS", "class_utility_1_1_f_p_s_counter.html#aef90f25ca86e6ac140bef9a8247a175f", null ],
     [ "resetAverageFPS", "class_utility_1_1_f_p_s_counter.html#a80612f3c0a69bafdb226a2ba9f997b0d", null ]
 ];

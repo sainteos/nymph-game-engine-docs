@@ -5,5 +5,6 @@ var namespace_game =
     [ "Scene", "class_game_1_1_scene.html", "class_game_1_1_scene" ],
     [ "SceneGenerator", "class_game_1_1_scene_generator.html", "class_game_1_1_scene_generator" ],
     [ "SpriteMoveEvent", "class_game_1_1_sprite_move_event.html", "class_game_1_1_sprite_move_event" ],
+    [ "SpriteMovementMotor", "struct_game_1_1_sprite_movement_motor.html", "struct_game_1_1_sprite_movement_motor" ],
     [ "SpriteMovement", "class_game_1_1_sprite_movement.html", "class_game_1_1_sprite_movement" ]
 ];

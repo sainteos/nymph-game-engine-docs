@@ -4,7 +4,7 @@ var class_component_manager =
     [ "addComponent", "class_component_manager.html#aa101af79f4cd1bd07575d37c46959164", null ],
     [ "addComponents", "class_component_manager.html#ac6c40114df0d5290a2d469cbebec0759", null ],
     [ "addComponents", "class_component_manager.html#a77c6853c25b0f1cac56e8ecf18296b4d", null ],
-    [ "count", "class_component_manager.html#a2c90e324a47d681b6f085df4c949d02c", null ],
+    [ "count", "class_component_manager.html#a6843f9df1df40e2d2281588e973b65c3", null ],
     [ "destroy", "class_component_manager.html#a95437543f675e03fbb8bc874e683b4ec", null ],
     [ "onStart", "class_component_manager.html#a89b62679418936b9b7cacab1eb135b4a", null ],
     [ "onUpdate", "class_component_manager.html#a3faba115f3b9d3968a340ac8620a29df", null ],

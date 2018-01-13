@@ -10,5 +10,5 @@ var searchData=
   ['reserved8',['RESERVED8',['../class_graphics_1_1_vertex_data.html#a2cf7d7f265784b7252b9264409aaf8e5a8f0a8e69a480d1dfb0f671acd6f72249',1,'Graphics::VertexData']]],
   ['reserved9',['RESERVED9',['../class_graphics_1_1_vertex_data.html#a2cf7d7f265784b7252b9264409aaf8e5aeef1b1af84ab650ca26fcd90ed548642',1,'Graphics::VertexData']]],
   ['resume_5fkey_5finput',['RESUME_KEY_INPUT',['../namespace_events.html#a07b11ec064b2d1ea8593ca3630c2aec8ac46c75c3b6ceef6197dbcd9587d9f3d2',1,'Events']]],
-  ['right',['RIGHT',['../class_graphics_1_1_u_i_1_1_wrappable_text.html#a105b1d9e143497ece9887d7c39f3363fab24684871ca59aa5935e8acaa92bfed2',1,'Graphics::UI::WrappableText']]]
+  ['right',['RIGHT',['../struct_game_1_1_sprite_movement_motor.html#a9ca639a99391ce32daa30b0b2a1ef602aa3f4460c9c00d4bb81d932c2510acc27',1,'Game::SpriteMovementMotor::RIGHT()'],['../class_graphics_1_1_u_i_1_1_wrappable_text.html#a105b1d9e143497ece9887d7c39f3363fab24684871ca59aa5935e8acaa92bfed2',1,'Graphics::UI::WrappableText::RIGHT()']]]
 ];

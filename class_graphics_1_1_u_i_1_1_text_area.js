@@ -1,10 +1,9 @@
 var class_graphics_1_1_u_i_1_1_text_area =
 [
-    [ "TextArea", "class_graphics_1_1_u_i_1_1_text_area.html#a0f6a762c869767ef154eb99d73913884", null ],
-    [ "className", "class_graphics_1_1_u_i_1_1_text_area.html#a03bb380f2d12f7a5e2913016c9422a93", null ],
-    [ "create", "class_graphics_1_1_u_i_1_1_text_area.html#a7461f93c978847021678a4cae444f5bb", null ],
+    [ "TextArea", "class_graphics_1_1_u_i_1_1_text_area.html#a60686db5eb3fdb40ac508c089fa8cb80", null ],
+    [ "className", "class_graphics_1_1_u_i_1_1_text_area.html#aeca1e973ccbdd687e79f9189d0f4fe62", null ],
+    [ "create", "class_graphics_1_1_u_i_1_1_text_area.html#ad30c72c2f5a5a7d69d04eff3d2ee04c4", null ],
     [ "getText", "class_graphics_1_1_u_i_1_1_text_area.html#aca26431f747e67dad1be6e71a9eeea25", null ],
-    [ "getValueForSorting", "class_graphics_1_1_u_i_1_1_text_area.html#aebd77b7a5eeb6fb3c702f56b6b897bd7", null ],
     [ "handleQueuedEvent", "class_graphics_1_1_u_i_1_1_text_area.html#a6cc43805d006e737da80584261019e94", null ],
     [ "log", "class_graphics_1_1_u_i_1_1_text_area.html#ad7f402d39bee7f9edc7d1245651f94cb", null ],
     [ "onCursorEnter", "class_graphics_1_1_u_i_1_1_text_area.html#abebb77d8fc1d4148cd06fcfda4dd88d5", null ],
@@ -20,7 +19,7 @@ var class_graphics_1_1_u_i_1_1_text_area =
     [ "onRightClickRelease", "class_graphics_1_1_u_i_1_1_text_area.html#a2be844ca7f96a534c69d6af4ff7ee3ce", null ],
     [ "onScroll", "class_graphics_1_1_u_i_1_1_text_area.html#a20dc645b0236d71e098efeeb124fd6ee", null ],
     [ "onStart", "class_graphics_1_1_u_i_1_1_text_area.html#ac79234b1d32b2cee4073c9b76948cca0", null ],
-    [ "onUpdate", "class_graphics_1_1_u_i_1_1_text_area.html#a14b1dde99a896092721f1fb7b760ae5e", null ],
+    [ "onUpdate", "class_graphics_1_1_u_i_1_1_text_area.html#a4a0878d6b1e39ce87145c47eba0c017c", null ],
     [ "setText", "class_graphics_1_1_u_i_1_1_text_area.html#a51e96f238069fc43ad4a9bb50bed2f3c", null ],
-    [ "to_string", "class_graphics_1_1_u_i_1_1_text_area.html#a6ca905b77e756585e63c1de9547301d0", null ]
+    [ "to_string", "class_graphics_1_1_u_i_1_1_text_area.html#a1dbb596ac337638679a4655552058999", null ]
 ];

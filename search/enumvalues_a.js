@@ -13,8 +13,8 @@ var searchData=
   ['mouse_5fbutton_5fup',['MOUSE_BUTTON_UP',['../namespace_events.html#a07b11ec064b2d1ea8593ca3630c2aec8aac48bee4c87670c7fe3b3069d6ce9374',1,'Events']]],
   ['mouse_5fcursor',['MOUSE_CURSOR',['../namespace_events.html#a07b11ec064b2d1ea8593ca3630c2aec8a0cb764fec5c8199714bf03253c59947d',1,'Events']]],
   ['mouse_5fscroll',['MOUSE_SCROLL',['../namespace_events.html#a07b11ec064b2d1ea8593ca3630c2aec8ab140bcabe8209ca48d5819ea5eec1388',1,'Events']]],
-  ['move_5fdown',['MOVE_DOWN',['../namespace_game.html#aead2bb8dacbf0ef4eeb7d47f01a9b769a1fcf8ae7dec959fc77b03454341eb70c',1,'Game']]],
-  ['move_5fleft',['MOVE_LEFT',['../namespace_game.html#aead2bb8dacbf0ef4eeb7d47f01a9b769a59e18bd3345123f7a104d116da1051a2',1,'Game']]],
-  ['move_5fright',['MOVE_RIGHT',['../namespace_game.html#aead2bb8dacbf0ef4eeb7d47f01a9b769ae528cf70dd86f70e8aeb7aac9b5bce04',1,'Game']]],
-  ['move_5fup',['MOVE_UP',['../namespace_game.html#aead2bb8dacbf0ef4eeb7d47f01a9b769a21599628ae377a9bd40581f067e0fa6a',1,'Game']]]
+  ['move_5fdown',['MOVE_DOWN',['../struct_game_1_1_sprite_movement_motor.html#abcd97facf2d6638705a8f818f11d0482a618d4f4ceec254a36b5ae3a7e147cc99',1,'Game::SpriteMovementMotor']]],
+  ['move_5fleft',['MOVE_LEFT',['../struct_game_1_1_sprite_movement_motor.html#abcd97facf2d6638705a8f818f11d0482af62b4ef052a0c6fe9d42643128946b43',1,'Game::SpriteMovementMotor']]],
+  ['move_5fright',['MOVE_RIGHT',['../struct_game_1_1_sprite_movement_motor.html#abcd97facf2d6638705a8f818f11d0482ab05ed618280a3064a8e53e1e1f4b9718',1,'Game::SpriteMovementMotor']]],
+  ['move_5fup',['MOVE_UP',['../struct_game_1_1_sprite_movement_motor.html#abcd97facf2d6638705a8f818f11d0482af141c04504ad854e15c925f248de6819',1,'Game::SpriteMovementMotor']]]
 ];

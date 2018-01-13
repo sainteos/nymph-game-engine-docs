@@ -6,8 +6,13 @@ var dir_68267d1309a1af8e8297ef4c3efbcdba =
     [ "generated", "dir_c6b3506109318da869165b36926fcb30.html", "dir_c6b3506109318da869165b36926fcb30" ],
     [ "graphics", "dir_560415a5d2bc4999842279f4fc1debef.html", "dir_560415a5d2bc4999842279f4fc1debef" ],
     [ "input", "dir_d365e15d984c8d0205117ee0c40d6716.html", "dir_d365e15d984c8d0205117ee0c40d6716" ],
+    [ "physics", "dir_8250e12e5a19acb8ece30f1703b6dc16.html", "dir_8250e12e5a19acb8ece30f1703b6dc16" ],
     [ "script", "dir_fe414d616bd0c4668e6515f48824338f.html", "dir_fe414d616bd0c4668e6515f48824338f" ],
+    [ "sound", "dir_06983a04f4bcdd04d40946e8be932ce3.html", "dir_06983a04f4bcdd04d40946e8be932ce3" ],
     [ "utility", "dir_0619a8f54b4fad7043a6de45be8fde0b.html", "dir_0619a8f54b4fad7043a6de45be8fde0b" ],
+    [ "cloneable.hpp", "cloneable_8hpp.html", [
+      [ "Cloneable", "class_cloneable.html", "class_cloneable" ]
+    ] ],
     [ "component.cpp", "component_8cpp.html", null ],
     [ "component.h", "component_8h.html", [
       [ "Component", "class_component.html", "class_component" ]

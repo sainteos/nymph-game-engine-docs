@@ -1,9 +1,8 @@
 var class_graphics_1_1_u_i_1_1_button =
 [
-    [ "Button", "class_graphics_1_1_u_i_1_1_button.html#ad0bc967ea91c86de464cfed6bfab1c99", null ],
-    [ "className", "class_graphics_1_1_u_i_1_1_button.html#ad89d4006a07d4b20212509d7f74c6e4e", null ],
-    [ "create", "class_graphics_1_1_u_i_1_1_button.html#a4254e1490244adb69e8418ae3a817495", null ],
-    [ "getValueForSorting", "class_graphics_1_1_u_i_1_1_button.html#aeff39c52248de1f786d858bdcb226f4a", null ],
+    [ "Button", "class_graphics_1_1_u_i_1_1_button.html#a6356a9d26378278e85aaa388d6ef7cd7", null ],
+    [ "className", "class_graphics_1_1_u_i_1_1_button.html#ae3dc060cb0fed27be3825469bedb5f64", null ],
+    [ "create", "class_graphics_1_1_u_i_1_1_button.html#a3e9cf4cecb6b205d5a21635cf8872520", null ],
     [ "handleQueuedEvent", "class_graphics_1_1_u_i_1_1_button.html#a5952ac0fb0ed4421cc7f5116e71fc61f", null ],
     [ "log", "class_graphics_1_1_u_i_1_1_button.html#a4def390d6dfb1538f04baed8e0c7be99", null ],
     [ "onCursorEnter", "class_graphics_1_1_u_i_1_1_button.html#a7de98d907662f3c653a9e7ee4a7bc13c", null ],

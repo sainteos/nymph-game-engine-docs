@@ -38,8 +38,7 @@ var dir_560415a5d2bc4999842279f4fc1debef =
     [ "texture_manager.h", "texture__manager_8h.html", [
       [ "TextureManager", "class_graphics_1_1_texture_manager.html", "class_graphics_1_1_texture_manager" ]
     ] ],
-    [ "tile_animator.cpp", "tile__animator_8cpp.html", null ],
-    [ "tile_animator.h", "tile__animator_8h.html", [
+    [ "tile_animator.hpp", "tile__animator_8hpp.html", [
       [ "TileAnimator", "class_graphics_1_1_tile_animator.html", "class_graphics_1_1_tile_animator" ]
     ] ],
     [ "uniform.cpp", "uniform_8cpp.html", "uniform_8cpp" ],
